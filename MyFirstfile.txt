@@ -1,0 +1,8 @@
+Git and GitHub 
+Differences
+Git is the Version Control Software.
+It is the system to keep track of the history of the project we work on.
+It has the special role in advanced and sophisticated features for Collaboration. 
+Git Hub is the Webservice Interface where we can work on projects.
+In this interface I can make the changes and save them(Commit).
+I can review the history for each of my work which has a unique identifier with numbers and strings.
